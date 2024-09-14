@@ -79,7 +79,7 @@ export default function Listagem({
           <TouchableOpacity
             style={[
               styles.btnFiltro,
-              criterio === "categoria" && styles.activeFilterButton,
+              criterio === "categoria" && styles.btnFiltroAtivo,
             ]}
             onPress={() => setCriterio("categoria")}
           >
