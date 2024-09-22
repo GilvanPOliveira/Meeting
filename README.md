@@ -42,3 +42,9 @@ A empresa "Meeting" busca criar um aplicativo móvel eficaz para o cadastro de f
  <img src="https://i.imgur.com/FU4gLhJ.png" height="200" />
  <img src="https://i.imgur.com/6eLf8mm.png" height="200" />
 </div>
+
+## Execução do App:
+
+https://github.com/user-attachments/assets/89b367a6-dcac-42c8-8cb4-49ff2d2bda15
+
+
